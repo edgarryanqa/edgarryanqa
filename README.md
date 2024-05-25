@@ -20,7 +20,7 @@
 
 </div><br/>
 
-Profissional apaixonado pela área de tecnologia, com foco em difundir a cultura de Qualidade de Software e o conceito de Shift Left para toda a equipe, tenho atuado como QA em projetos ágeis com os frameworks Scrum e Kanban. Tenho experiência e vivência em testes manuais e automatizados, desde o planejamento da cobertura de testes e a escrita dos casos de teste em Gherkin (BDD) e step by step, até a integração contínua com o Jenkins. Além disso, é de minha responsabilidade acompanhar a evolução dos testes, registrar e gerenciar bugs, e participar ativamente em rituais e cerimônias junto à equipe e aos stakeholders.
+Professional passionate about the technology area, focused on spreading the Software Quality culture and the Shift Left concept to the entire team, I have worked as a QA on agile projects with the Scrum and Kanban frameworks. I have experience in manual and automated testing, from planning test coverage and writing test cases in Gherkin (BDD) and step by step, to continuous integration with Jenkins. Furthermore, it is my responsibility to monitor the evolution of tests, record and manage bugs, and actively participate in rituals and ceremonies with the team and stakeholders.
 
 ## Contatos 
 - [oliveiraedgarryan83@gmail.com]()<br/>
